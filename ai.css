@@ -1,0 +1,27 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+}
+
+.note
+{  
+    font-size: 15px;
+    color: black;
+}
+
+#h
+{
+    box-shadow: whitesmoke 5px;
+}
+
+body
+{
+    background-color:#000035;
+}
+
+canvas
+{
+    box-shadow: whitesmoke 5px;
+}
